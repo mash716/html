@@ -9,3 +9,5 @@ github 実行方法
 ➂masterと書かれているところにgh-pagesブランチを切る
 
 ➃ユーザー名.github.io/index.htmlと記述する
+
+https://mash716.github.io/index.html/
